@@ -1,0 +1,5 @@
+D:\_git projects\C# Practices\Reflections With Attributes\bin\Debug\Reflections With Attributes.exe.config
+D:\_git projects\C# Practices\Reflections With Attributes\bin\Debug\Reflections With Attributes.exe
+D:\_git projects\C# Practices\Reflections With Attributes\bin\Debug\Reflections With Attributes.pdb
+D:\_git projects\C# Practices\Reflections With Attributes\obj\Debug\Reflections With Attributes.exe
+D:\_git projects\C# Practices\Reflections With Attributes\obj\Debug\Reflections With Attributes.pdb
